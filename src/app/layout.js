@@ -31,8 +31,8 @@ export default function RootLayout({ children }) {
       <body className="min-h-full flex flex-col">
         <HydrateStores />
         <Script
-          src="https://tracking.orielhaim.com/api/script.js"
-          data-site-id="c37b67b31281"
+          src="https://track.orielhaim.com/api/script.js"
+          data-site-id="014c01909617"
           strategy="afterInteractive"
         />
         <div className="flex flex-col min-h-screen">
